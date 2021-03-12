@@ -7,4 +7,4 @@ Reimplementation with Python code, the experiment is in progress...
 
 The source code scrips are not available from the authors due to commercial and copyright issues, thus this version of python code **should be used for academic purpose only**.
 
-Please feel free to contact me (chibing.xiang@gmail.com) if you are  interested in or working on Diabetic Retinopathy detection, looking for cooperation with any interested partners
+Please feel free to contact me (chibing.xiang@gmail.com) if you are  interested in or working on Diabetic Retinopathy detection, looking for cooperation with any interested partners.
