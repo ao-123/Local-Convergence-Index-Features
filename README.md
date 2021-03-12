@@ -5,6 +5,6 @@ Reimplementation for the paper with Python
 
 Reimplementation with Python code, the experiment is in progress...
 
-The source code scrips are not available from the authors due to commercial and copyright issues, thus this version of python code should be used for academic purpose only.
+The source code scrips are not available from the authors due to commercial and copyright issues, thus this version of python code should be used only for academic purpose.
 
 Welcome interested partners to provide suggestions for code implementation of this paper, please feel free to contact and communicate with me.
