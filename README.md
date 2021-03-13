@@ -1,7 +1,7 @@
 # Local-Convergence-Index-Features
 Reimplementation of this paper with Python 
 
-> Dashtbozorg B, Zhang J, Huang F, et al. Retinal microaneurysms detection using local convergence index features[J]. IEEE Transactions on Image Processing, 2018, 27(7): 3300-3315.
+> Dashtbozorg B, Zhang J, Huang F, et al. [Retinal microaneurysms detection using local convergence index features](https://arxiv.org/pdf/1707.06865)[J]. IEEE Transactions on Image Processing, 2018, 27(7): 3300-3315.
 
 The experiment is in progress...
 
